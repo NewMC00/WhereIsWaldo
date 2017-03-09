@@ -9,7 +9,9 @@ using namespace std;
 int main()
 {
 	cout << "Where's Waldo?\n\n";
-	cout << "Where in the world is Waldo?";
+	cout << "Where in the world is Waldo?\n\n";
+
+	cout << "Making some changes to help familiarize myself with Git branch commits and pull requests.\n";
 
     return 0;
 }
